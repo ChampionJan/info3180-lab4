@@ -25,6 +25,7 @@ div.gallery{
     background-color: #fff;
     grid-column-end: 1em;
     row-gap: 1em;
+    column-gap: 1em;
 }
 
 div.gallery img{
